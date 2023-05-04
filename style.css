@@ -1,0 +1,56 @@
+
+
+@media (min-width: 960px){
+
+    .pizza_layout {
+        display: flex;
+    }
+}
+
+
+.pizza {
+    width: auto;
+    height: auto;
+
+background-color: #EB0A0A;
+margin: 1em;
+padding: 1em;
+border-radius: 3em;
+border: 1px solid #3c571d;
+flex: 1;
+}
+
+.pepper{
+background-color:#D19208;
+}
+.vege{
+    width: auto;
+    height: auto;
+    background-color: #358928;
+}
+.BBQ{
+    width: auto;
+    height: auto;
+    background-color:#9B710E;
+}
+
+.wholeBG{
+    width: auto;
+    height: auto;
+    background-color: gold;
+}
+.BG{
+    
+    background-color:coral;
+}
+.font{
+    font-size: 6em;
+}
+.font1{
+    font-size: 2em;
+    background-color:chartreuse;
+}
+.fontA{
+    font-size: 3em;
+    background-color:rgba(238, 255, 0, 0.966);
+}
